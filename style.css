@@ -1,0 +1,25 @@
+h1 {
+    color: black;
+    padding-top: 50px;
+}
+
+img{
+    width: 400px;
+    margin: 20px;
+    height: 270px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.bgColor {
+    background-color: lightgray;
+    margin-left: -20px;
+    padding-left: 30px;
+    width: 500px;
+    height: 270px;
+    margin-top: 20px;
+}
+
